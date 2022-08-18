@@ -12,3 +12,7 @@
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADnez-alberte-21258b190/'                  # Fill with your Linkedin homepage
+-
+  type: codestats
+  icon: 'fab fas fa-code'
+  url: 'https://codestats.net/users/estenoesmiputonombre'
